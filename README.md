@@ -27,3 +27,11 @@ Tenha certeza de enviar o link do repositório do Github.
 2-(Hobby) Entrei na programção por que eu gostava muito da área do designer gráfico, e com isso percebi que o front-and e o designer caminham juntos.
 3-Essa é a minha primeira experiência com a programação
 Achei legal essa área pois nela permite fazer criações de site e é algo que me chama muita atenção
+Cada entrada deverá ter ao menos:
+
+
+
+
+1. Kelson Luiz Santos de Sousa.
+2. estudei direito por muito tempo, mas sempre buscando algo sobre TI, tive a oportunidade então agarrei!
+3. A area TI esteve em contato comigo por toda minha vida, por isso decidi aprender cada vez mais sobre.
