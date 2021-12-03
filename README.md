@@ -8,7 +8,6 @@ Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Com
 
 Cada pessoa deve ter ao menos 1 entrada.
 
-
 Cada entrada deverá ter ao menos:
 1. O seu nome.
 2. Imagem sua ou que represente algo relacionado ao seu hobbie.
@@ -19,10 +18,12 @@ __O uso de Branches é obrigatório.__
 ## Como Enviar?
 
 Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
-
 - [x] Enviar o link do Repositório;
 
-
 ## Links
-
 Tenha certeza de enviar o link do repositório do Github.
+
+1-Olá sou Emanoelle
+2-(Hobby) Entrei na programção por que eu gostava muito da área do designer gráfico, e com isso percebi que o front-and e o designer caminham juntos.
+3-Essa é a minha primeira experiência com a programação
+Achei legal essa área pois nela permite fazer criações de site e é algo que me chama muita atenção
