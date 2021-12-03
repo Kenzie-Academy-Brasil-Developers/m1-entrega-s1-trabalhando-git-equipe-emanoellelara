@@ -26,3 +26,11 @@ Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a 
 ## Links
 
 Tenha certeza de enviar o link do repositório do Github.
+Cada entrada deverá ter ao menos:
+
+
+
+
+1. Kelson Luiz Santos de Sousa.
+2. estudei direito por muito tempo, mas sempre buscando algo sobre TI, tive a oportunidade então agarrei!
+3. A area TI esteve em contato comigo por toda minha vida, por isso decidi aprender cada vez mais sobre.
